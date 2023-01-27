@@ -1,0 +1,40 @@
+﻿th{
+    width:33%;
+    
+}
+table{
+    width:100%;
+    text-align:center;
+}
+.leftBlock{
+    width:20%;
+    float:left;
+}
+.rightBlock{
+    width: 20%;
+    float: right;
+}
+.stroke:hover{
+      background-color:antiquewhite;
+}
+.btn {
+    border: solid;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+}
+    .btn:hover {
+        border-color: antiquewhite;
+        background-color: antiquewhite;
+    }
+.centerBlockTable {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-width: 3px;
+    border: groove;
+    border-color: aliceblue;
+    padding:15px 15px 15px 15px;
+    background-color: whitesmoke;
+    border-radius: 15px 15px;
+    text-align:center;
+}

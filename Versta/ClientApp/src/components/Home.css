@@ -1,0 +1,22 @@
+﻿.centerBlock {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-width: 3px;
+    border: groove;
+    border-color: aliceblue;
+    padding: 15px 15px 15px 15px;
+    background-color: whitesmoke;
+    border-radius: 15px 15px;
+}
+.btn{
+    border:solid;
+    display:inline-block;
+    border-color:floralwhite;
+    background-color:whitesmoke;
+    width: 50%;
+}
+.btn:hover{
+    border-color:azure;
+    background-color:beige;
+}

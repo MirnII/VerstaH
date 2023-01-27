@@ -1,0 +1,39 @@
+﻿.form{
+    
+    margin-left: 15rem;
+    margin-right: 15rem;
+    width:60%;
+    
+}
+.error{
+    color: darkred;
+    float:right;
+    margin-bottom:1px;
+}
+
+input {
+   margin-left: 2rem;
+   margin-right: 2rem;
+   width: stretch;
+   
+}
+label{
+    margin-left:2rem;
+    width:90%;
+}
+.headForm{
+    text-align:center
+}
+.leftBlock{
+    float: left;
+    width: 15%;
+    height: 2rem;
+}
+.rightBlock{
+    float:right;
+    width:15%;
+    height:2rem;
+}
+.buttonSubmit{
+    margin-top:1rem;
+}
